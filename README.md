@@ -32,3 +32,35 @@ Population Density: Weak negative correlation (-0.03), with higher densities pot
 
 The regression model demonstrated strong performance with a high R-squared value, significant coefficients, and minimal prediction errors. 
 These insights emphasize the importance of considering socioeconomic and geographic factors in housing market analysis, aiding stakeholders in making informed decisions.
+
+
+
+<h1 style="font-weight: bold; text-decoration: underline;">FBI DataAnalysis-Data Cleaning</h1>
+
+<strong>Background:</strong>
+
+This project involved cleaning and preparing data from the FBI’s Uniform Crime Reporting (UCR) program, sourced from Kaggle. The dataset included various crime statistics across different regions and years, providing a rich source of information for analysis. My role was to clean and preprocess this data to ensure its accuracy and usability for further analysis.
+
+<strong>Objective:</strong>
+
+The primary goal of this project was to transform raw, uncleaned data into a structured and reliable format. This included handling missing values, correcting inconsistencies, and ensuring data integrity. The cleaned dataset aimed to facilitate accurate and insightful analysis for crime trend evaluation and policy making.
+
+<strong>Skills:</strong>
+
+Data Cleaning: Managed missing data, corrected inconsistencies, and standardized formats.
+
+Data Transformation: Converted data types, merged datasets, and created new features to enhance analysis.
+
+Tools and Technologies: Utilized Python libraries such as Pandas and NumPy for data manipulation, and Jupyter Notebooks for documentation and analysis.
+
+<strong>Results:</strong>
+
+- Successfully cleaned and transformed the dataset, reducing the error rate and improving data quality.
+- Enhanced dataset usability for subsequent analytical tasks, including trend analysis and predictive modeling.
+- Documented the data cleaning process, providing a clear and reproducible methodology for future work.
+
+
+
+
+
+
